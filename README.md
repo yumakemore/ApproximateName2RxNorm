@@ -1,7 +1,7 @@
 # ApproximateName2RxNorm
 
 Take an approximate name of a medication concept and return the standard details of the best matching concept from RxNorm.
-Note. This is a per-record solution. If you need to treat a set of many records, check out https://github.com/yumakemore/Medication2RxNorm
+Note. This is a per-record solution. If you need to treat a set of many records, check out  https://github.com/yumakemore/Medication2RxNorm
 
 Byunggu Yu, Ph.D.
 
